@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/yuvrajkhatanaraika01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yuvraj Khatana Raika" height="30" width="40" /></a>
-<a href="https://instagram.com/1_yuvraj_" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="1_yuvraj_" height="30" width="49"  /></a>
+<a href="https://github.com/yuvrajraika07"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="1_yuvraj_" height="30" width="49"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
